@@ -14,8 +14,12 @@
 <a href="https://linkedin.com/in/pranav pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav pawar" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages :</h3>
 <p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
     <img src="https://skillicons.dev/icons?i=bootstrap" />
-    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=github" />
 </p>
+
+<h3 align="left">Tools :</h3>
