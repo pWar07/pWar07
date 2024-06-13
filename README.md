@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pranav pawar" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="pranav pawar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranav pawar" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="pranav pawar" /></a>
 </p>
 
 <h3 align="left">Languages and Libraries :</h3>
