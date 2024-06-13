@@ -11,15 +11,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pranav pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav pawar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranav pawar" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="pranav pawar" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages :</h3>
+<h3 align="left">Languages and Libraries :</h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-    <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
 <h3 align="left">Tools :</h3>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=github,vscode,vite" />
+</p>
